@@ -3,15 +3,17 @@
 How to run:
 
 
-Install Node
 
-Make sure you have Node in your path
+--Install Node
 
-Download this package
+--Make sure you have Node in your path
 
-Go to root folder of this package
+--Download this package
 
-Run Node static.js
+--Go to root folder of this package
+
+--Run Node static.js
+
 
 
 Server will run at localhost:3000
